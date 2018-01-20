@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.box-joke {
+    margin-top: 20px;
+    width: 80vw;
+    height: 30vh;
+    background-color: rgba(241, 169, 160, 0.4);
+    border: 2px solid #D24D57;
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    height: 40px;
+    background-color: #D24D57;
+    color: white;
+    border: 2px solid;
+    margin: 10px auto 0;
+}
+
+#joke {
+    margin: 60px auto 0;
+    width: 70%;
+    font-size: 20px;
+    text-align: center;
+}
